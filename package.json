@@ -4,7 +4,7 @@
   "description": "StudHelp good deal micro-service ",
   "main": "index.js",
   "scripts": {
-    "start" : "nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YALAP Christophe, MARLEIX Noé, TRAORE Mohamed Seydou",

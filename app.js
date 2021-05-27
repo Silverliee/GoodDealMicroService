@@ -8,7 +8,7 @@ const organizationController = require('./Controller/OrganizationController');
 const categoryController = require('./Controller/CategoryController');
 
 //Mongoose initialisation
-mongoose.connect('mongodb+srv://mohamed:414498200@silver-cluster.yegdt.mongodb.net/GoodDealMicroService?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://mohamed:414498200@silver-cluster.yegdt.mongodb.net/StudHelpDatabase?retryWrites=true&w=majority',
 	{
 		useNewUrlParser: true,
 		useUnifiedTopology: true
