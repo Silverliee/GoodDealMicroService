@@ -10,8 +10,7 @@ const goodDealSchema = new Schema({
 		organization: {type: [organizationSchema], default: undefined},
 		startDate: String,
 		endDate: String,
-		Longitude: Number,
-		latitude: Number
+		address: String,
 	}
 )
 

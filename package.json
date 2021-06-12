@@ -10,6 +10,7 @@
   "author": "YALAP Christophe, MARLEIX Noé, TRAORE Mohamed Seydou",
   "license": "ISC",
   "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.1.16",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
